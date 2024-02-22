@@ -14,7 +14,6 @@ use pocketmine\item\ItemTypeIds;
 use pocketmine\item\VanillaItems;
 use pocketmine\player\Player;
 use pocketmine\Server;
-use pocketmine\utils\Terminal;
 use pocketmine\utils\TextFormat;
 use Premium\Jorgebyte\Main;
 use Premium\Jorgebyte\Utils;
