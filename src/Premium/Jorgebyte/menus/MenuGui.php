@@ -140,25 +140,21 @@ class MenuGui
             [
                 "item" => VanillaItems::EGG(),
                 "name" => TextFormat::BOLD . TextFormat::MINECOIN_GOLD . "LITTLE",
-                "size" => 0.5,
                 "lore" => [TextFormat::GRAY . "Size is 0.5"]
             ],
             [
                 "item" => VanillaItems::TOTEM(),
                 "name" => TextFormat::BOLD . TextFormat::MINECOIN_GOLD . "NORMAL",
-                "size" => 1.0,
                 "lore" => [TextFormat::GRAY . "Size is 1.0"]
             ],
             [
                 "item" => VanillaItems::SLIMEBALL(),
                 "name" => TextFormat::BOLD . TextFormat::MINECOIN_GOLD . "MEDIUM",
-                "size" => 1.5,
                 "lore" => [TextFormat::GRAY . "Size is 1.5"]
             ],
             [
                 "item" => VanillaItems::BLAZE_POWDER(),
                 "name" => TextFormat::BOLD . TextFormat::MINECOIN_GOLD . "BIG",
-                "size" => 2.0,
                 "lore" => [TextFormat::GRAY . "Size is 2.0"]
             ]
         ];
