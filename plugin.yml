@@ -1,0 +1,10 @@
+name: Premium
+api: 5.0.0
+version: 1.0.0
+author: Jorgebyte
+main: Premium\Jorgebyte\Main
+
+permissions:
+  premium.command:
+    default: op
+    description: "Permit only for VIPS"
